@@ -1,0 +1,13 @@
+
+2026-06-10 10:12:01 ERROR DatabaseLockException
+2026-06-10 10:12:02 ERROR Row lock held for 245 seconds
+2026-06-10 10:12:04 ERROR Unable to acquire lock
+2026-06-10 10:12:06 ERROR Deadlock detected
+2026-06-10 10:12:08 ERROR Transaction rollback
+2026-06-10 10:12:10 ERROR Lock contention threshold exceeded
+2026-06-10 10:12:15 ERROR Checkout write failed
+2026-06-10 10:12:18 ERROR Checkout write failed
+2026-06-10 10:12:20 ERROR Deadlock detected
+2026-06-10 10:12:23 ERROR Transaction rollback
+2026-06-10 10:12:25 ERROR Checkout write failed
+2026-06-10 10:12:27 ERROR Lock wait timeout exceeded

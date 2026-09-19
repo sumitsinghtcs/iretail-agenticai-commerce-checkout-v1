@@ -1,0 +1,37 @@
+[
+    {
+        "metric_name": "discovery_agent",
+        "duration_ms": 0.73,
+        "timestamp": 1781737705.9638638
+    },
+    {
+        "metric_name": "pre_validation_agent",
+        "duration_ms": 0.44,
+        "timestamp": 1781737705.965445
+    },
+    {
+        "metric_name": "analysis_agent",
+        "duration_ms": 19901.59,
+        "timestamp": 1781737725.8679595
+    },
+    {
+        "metric_name": "decision_agent",
+        "duration_ms": 0.17,
+        "timestamp": 1781737725.8689942
+    },
+    {
+        "metric_name": "action_agent",
+        "duration_ms": 0.16,
+        "timestamp": 1781737725.8697977
+    },
+    {
+        "metric_name": "post_validation_agent",
+        "duration_ms": 5.85,
+        "timestamp": 1781737725.8764343
+    },
+    {
+        "metric_name": "reporting_agent",
+        "duration_ms": 3.93,
+        "timestamp": 1781737725.881066
+    }
+]

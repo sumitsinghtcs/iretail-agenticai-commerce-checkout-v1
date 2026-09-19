@@ -1,0 +1,11 @@
+
+2026-06-10 10:10:01 INFO Application startup
+2026-06-10 10:11:01 INFO Checkout service online
+2026-06-10 10:11:05 INFO Cart service healthy
+2026-06-10 10:12:01 ERROR Service degradation detected
+2026-06-10 10:12:05 ERROR Checkout endpoint latency spike
+2026-06-10 10:12:10 ERROR Cart conversion drop detected
+2026-06-10 10:12:15 WARN Revenue impact increasing
+2026-06-10 10:12:20 ERROR Alert threshold exceeded
+2026-06-10 10:12:25 ERROR Incident escalation triggered
+2026-06-10 10:12:30 INFO PagerDuty notification sent

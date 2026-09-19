@@ -1,0 +1,11 @@
+{
+    "incident_id": "13a44c0c-b29a-4450-9731-a2927adea1b4",
+    "root_cause": "Database Lock",
+    "confidence": 0.95,
+    "selected_action": "unlock_database",
+    "healing_successful": true,
+    "evidence": [
+        "Deadlock detected",
+        "Lock wait timeout"
+    ]
+}
